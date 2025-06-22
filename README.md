@@ -42,3 +42,14 @@ We’ll be implementing **only the encoder** portion of the original Transformer
 <img src="encoder_architecture.png" alt="Transformer Encoder Architecture" width="300"/>
 
 > 📌 Don’t worry if the diagram looks intimidating — we’ll break it down step by step and implement each part from scratch!
+
+---
+
+## 🔧 Installation
+
+Clone the repo:
+
+```bash
+git clone https://github.com/nls-forev/transformer-from-scratch.git)
+cd transformers-from-scratch
+pip install torch
