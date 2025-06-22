@@ -39,6 +39,6 @@ The main goal is **not just to copy** a Transformer implementation, but to **und
 
 We’ll be implementing **only the encoder** portion of the original Transformer architecture in this project.
 
-<img src="encoder_architecture.png" alt="Transformer Encoder Architecture" width="500"/>
+<img src="encoder_architecture.png" alt="Transformer Encoder Architecture" width="200"/>
 
 > 📌 Don’t worry if the diagram looks intimidating — we’ll break it down step by step and implement each part from scratch!
