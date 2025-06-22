@@ -53,3 +53,7 @@ Clone the repo:
 git clone https://github.com/nls-forev/transformer-from-scratch.git)
 cd transformers-from-scratch
 pip install torch
+
+## 🚀 Let's Get Started!
+
+After installing the dependencies, open the notebook to begin:
